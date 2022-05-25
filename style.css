@@ -1,0 +1,52 @@
+/* body part  */
+body{
+    font-family: 'Akshar', sans-serif;
+    font-size: 18px;
+ 
+    
+}
+.container{
+    margin-bottom: 30px;
+}
+.img1{
+    height: 120px;
+    position:absolute;
+    top: 570px;
+    
+}
+.img2{
+    height: 380px;
+    position:absolute;
+    top:200px;
+    left: 630px;
+    
+}
+.btn{
+    width: 120px;
+   
+}
+/* body part  */
+
+/* navbar part  */
+.navbar{
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 30px;
+}
+/* navbar part */
+
+/* carousal part  */
+.btn-part{
+    background-color: black;
+}
+.carousel-item{
+    padding: 0px 80px;
+}
+p{
+    font-size: 17px;
+    color: rgb(107, 105, 105);
+}
+.carousel-inner .col2{
+    padding: 0 60px;
+}
+/* carousal part  */
