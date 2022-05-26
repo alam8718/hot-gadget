@@ -7,6 +7,7 @@ body{
 }
 .container{
     margin-bottom: 30px;
+    padding: 0px 80px;
 }
 .img1{
     height: 120px;
@@ -39,9 +40,7 @@ body{
 .btn-part{
     background-color: black;
 }
-.carousel-item{
-    padding: 0px 80px;
-}
+
 p{
     font-size: 17px;
     color: rgb(107, 105, 105);
@@ -50,3 +49,35 @@ p{
     padding: 0 60px;
 }
 /* carousal part  */
+
+/* phone part  */
+.phone-part{
+    padding-bottom: 15px;
+}
+.card{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 15px 30px rgb(236, 235, 235);
+}
+.card-text{
+    font-size: 15px;
+}
+.phone{
+    margin-bottom: 15px;
+}
+.phone h5{
+    color: orange;
+}
+/* phone part  */
+/* laptop part  */
+.laptop h5{
+    color: orange;
+}
+.laptop-part{
+    margin-bottom: 100px;
+}
+
+/* laptop part  */
