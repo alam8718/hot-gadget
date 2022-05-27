@@ -72,6 +72,7 @@ p{
     color: orange;
 }
 /* phone part  */
+
 /* laptop part  */
 .laptop h5{
     color: orange;
@@ -81,3 +82,28 @@ p{
 }
 
 /* laptop part  */
+/* category part  */
+
+hr{
+    margin-top: 0;
+    position: relative;
+    left: 540px;
+    border: none;
+    width: 75px;
+    border-top-style:solid;
+    border-top-width: 10px;
+    border-top-color: rgb(232, 133, 4);
+    opacity: 80%;
+    border-radius: 10px;
+}
+.category-part{
+    margin-bottom: 100px;
+}
+.category-part img{
+    width:500px;
+}
+.perfume{
+    margin-bottom: 50px;
+}
+
+/* category part  */
